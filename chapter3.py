@@ -1,10 +1,8 @@
-def hello():
-    print('Howdy!')
-    print('howdy2')
+def hello(name):
+    print('Howdy!'+ name)
+    print('Paul')
 
-hello()
-hello()
-hello()
+hello('Alice')
 
 
 
