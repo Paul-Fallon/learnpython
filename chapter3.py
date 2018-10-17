@@ -17,7 +17,7 @@ def getAnswer(answerNumber):
         return 'Ask Later'
     elif answerNumber == 6:
         return 'concentrate and ask again'
-    elif answerNumber -- 7:
+    elif answerNumber == 7:
         return 'My reply is no'
     elif answerNumber == 8:
         return 'Not good'
