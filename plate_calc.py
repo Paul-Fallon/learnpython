@@ -9,10 +9,3 @@ def platecalculator(weight, bar = 45,plates = [45,35,25,10,5,2.5]):
         
     return required
 
-weight = 230
-
-print(platecalculator(weight))
-
-test = platecalculator(weight)
-
-print(test[45])
